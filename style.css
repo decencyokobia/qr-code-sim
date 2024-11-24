@@ -71,3 +71,17 @@ a:focus {
     color: green;
     background: yellow;
 }
+
+@media screen and (max-width: 600px){
+    body {
+        min-height: 100vh;
+        max-width: auto;
+    }
+}
+
+@media screen and (max-width: 360px){
+    body {
+        min-height: 100vh;
+        max-width: auto;
+    }
+}
