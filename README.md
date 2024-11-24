@@ -1,7 +1,5 @@
 QRcode - Practice Project
 
-This is a simple practice project where I’ve created a recipe page to experiment with HTML, and CSS.
-
 What’s Inside
 - A simple design to showcase few details.
 - Styling: Uses custom CSS for layout and basic styling.
